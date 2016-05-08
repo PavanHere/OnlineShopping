@@ -1,1 +1,4 @@
-com\deals\products\HomeController.class
+com\deals\controller\HomeController.class
+com\deals\dao\ProductDao.class
+com\deals\dao\impl\ProductDaoImpl.class
+com\deals\model\Product.class
